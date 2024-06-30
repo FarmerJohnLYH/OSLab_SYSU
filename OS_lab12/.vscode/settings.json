@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "queue": "cpp",
+        "deque": "cpp",
+        "functional": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "__string": "cpp",
+        "__config": "cpp",
+        "__locale": "cpp"
+    }
+}

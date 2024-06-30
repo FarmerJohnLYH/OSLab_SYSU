@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "__hash_table": "cpp",
+        "__locale": "cpp",
+        "__threading_support": "cpp",
+        "bitset": "cpp",
+        "functional": "cpp",
+        "unordered_map": "cpp",
+        "memory": "cpp",
+        "optional": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "system_error": "cpp",
+        "type_traits": "cpp",
+        "variant": "cpp",
+        "vector": "cpp",
+        "ostream": "cpp",
+        "deque": "cpp"
+    }
+}
